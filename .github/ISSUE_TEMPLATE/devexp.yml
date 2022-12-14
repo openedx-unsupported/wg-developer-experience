@@ -1,6 +1,7 @@
 name: 🛠️  DevExp Issue
 description: Create a new issue for the Developer Experience Working Group.
-assignee: kdmccormick
+assignees:
+  - kdmccormick
 body:
   - type: markdown
     attributes:
