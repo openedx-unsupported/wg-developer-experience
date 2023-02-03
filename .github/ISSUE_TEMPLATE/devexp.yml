@@ -11,14 +11,14 @@ body:
     id: background
     attributes:
       label: Background
-      description: Provide a summary necesary to understand the issue plus relevant links, screenshots, logs, other issues, etc.
+      description: Provide a summary to help others to understand the issue, plus any relevant links, screenshots, logs, other issues, etc.
     validations:
       required: true
   - type: textarea
     id: tasks
     attributes:
       label: Tasks
-      description: Provide a checklist of steps required to resolve the issue.
+      description: Provide a checklist of steps required to resolve the issue. If you're not sure, you can provide an incomplete list, or just write "TBD".
     validations:
       required: true
   - type: textarea
