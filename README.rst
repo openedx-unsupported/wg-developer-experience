@@ -1,8 +1,8 @@
 wg-developer-experience
 #######################
 
-A place to create issues for the Developer Exprience Working Group ("DevExp WG").
+This was a place to create issues for the Developer Exprience Working Group ("DevX WG").
 
-The `DevExp WG project <https://github.com/orgs/openedx/projects/37>`_ is where we track developer experience issues, including ones from this repository and several other repositories.
+That working group has been replaced with the `Tutor Users' Group <https://openedx.atlassian.net/wiki/spaces/COMM/pages/3583016961/Tutor+Users+Group>`_ and the `Tutor Maintainers team <https://discuss.openedx.org/t/tutor-maintainers/7287>`_.
 
-See the `working group home page <https://openedx.atlassian.net/wiki/spaces/COMM/pages/3583016961/Developer+Experience+Working+Group>`_ for more details.
+We're currently in the process of going through these issues and either closing them or moving them somewhere else. Reach out to @kdmccormick if you have questions. Thanks!
